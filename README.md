@@ -5,7 +5,12 @@
 
 ![Example](https://github.com/arceprogramando/Husky-Github-Action-MonoRepo/blob/main/public/example.png?raw=true)
 
-First, Install Dependencies
+### [Github Actions ⚙️](https://github.com/arceprogramando/Husky-Github-Action-MonoRepo/tree/main/.github/workflows)
+
+![Example](https://github.com/arceprogramando/Husky-Github-Action-MonoRepo/blob/main/public/githubAction.png?raw=true)
+
+
+#### First, Install Dependencies
 
 ```bash
 npm install
@@ -17,7 +22,7 @@ pnpm install
 bun install
 ```
 
-Second, run prepare husky
+#### Second, run prepare husky
 
 ```bash
 npm run prepare
@@ -29,7 +34,7 @@ pnpm prepare
 bun prepare
 ```
 
-Third, run the development server:
+#### Third, run the development server:
 
 ```bash
 npm run dev
